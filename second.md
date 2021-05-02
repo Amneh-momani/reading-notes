@@ -10,5 +10,5 @@ there's many synta that you can use anywhere on GitHub:
 
 # What is GitHub Pages?
 
-It's let us turn github repositories into elegant websites to showcase our protofilo , projects or anything that we wanna share it with the world there's no need to set up the databese and no server to configure in many cases .we cane use it to upload our projects files or folder whatever it has imgs , files or any thing.
+It's let us turn github repositories into elegant websites to showcase our portfolio , projects or anything that we wanna share it with the world there's no need to set up the database and no server to configure in many cases .we cane use it to upload our projects files or folder whatever it has imgs , files or any thing.
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
