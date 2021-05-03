@@ -3,5 +3,5 @@
  | assigment | link |
  |-----------|--------|
  | LAB1 | [lab1](lab1.md)|
- | SECOND  | [lab1](second.md)|
+ | SECOND  | [second](second.md)|
  
