@@ -9,6 +9,7 @@ And here's some features of **growth mindset** which help to how get this proper
 - _Effort_
 - _Criticism_
 - _Success of others_
+- _challenges_
 
 
 
