@@ -48,11 +48,11 @@ Control flow means that when you read a script, you must not only read from star
 _The += assignment operator can also be used to add (concatenate) strings:_
 
 
-*The multiplication operator (*) multiplies numbers.
+* The multiplication operator (*) multiplies numbers.
 
 * JavaScript Comparison Operators
 
-*JavaScript Logical Operators
+* JavaScript Logical Operators
 
 
 
