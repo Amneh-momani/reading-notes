@@ -9,4 +9,4 @@
  | CSS  | [Css](css.md)|
  | JS  | [Js](javascript.md)|
  | FOR / WHILE  | [For , While](javascript2.md)|
- 
+  | READ6  | [Read6](read6.md)|
