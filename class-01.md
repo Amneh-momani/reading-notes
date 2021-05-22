@@ -1,11 +1,13 @@
 # HTML-CSS:
 ## how PeopLe access the web:
 + Browsers
+
 People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
 + web servers
 
 When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.
 + screen readers
+
 Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
 
 **All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.**
@@ -99,7 +101,7 @@ Every step for every task shown in a flowchart needs to be written in a language
 
  ## OBJECTS & PROPERTIES:
 
- 
+
  ### OBJECTS (THINGS)
   In computer programming, each physical thing in the world can be represented as an object.
 
