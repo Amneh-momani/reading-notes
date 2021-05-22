@@ -27,7 +27,7 @@ for more information about how to use Markdown visit the link [Markdown on GitHu
 
  | assigment | link |
  |-----------|--------|
- | READ-1 | [read-1](read-1.md)|
+ | READ-1 | [read-1](class-01.md)|
  | READ-2 | [read-2](read-2.md)|
  | READ-3 | [read-3](read-3.md)|
  | READ-4 | [read-4](read-4.md)|
