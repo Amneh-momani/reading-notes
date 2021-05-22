@@ -36,7 +36,6 @@ For a long time, web page authors used <div> elements to group together related 
 ### new HTML5 Layout element
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.
 
-
 # JAVASCRIPT IN THE BROWSER:
  Being able to change the content of an HTML page w hile it is loaded in the browser is very powerful. The examples below rely on the ability to:
  + **Access** the content of the page
@@ -45,7 +44,7 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
  + **React** to events triggered by the user or browser 
 
  ## HTML elements:
- HTML elementsare added to the content of a page to describe its structure. An element consists of the opening and closing tags,plus content.
+ HTML elements are added to the content of a page to describe its structure. An element consists of the opening and closing tags,plus content.
 
  + <p class="add">content</p>
 
@@ -59,13 +58,13 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 
  You could compare scripts to any of the following:
  + RECIPES 
- By fo llowing the instructions in a recipe, one-by-one in t he order set out, cooks can create a dish they have never made before.
+ By following the instructions in a recipe, one-by-one in t he order set out, cooks can create a dish they have never made before.
 
  + HANDBOOKS
-  Large companies often provide handbooks for new employees that contain procedures to fo llow in certain situations. 
+  Large companies often provide handbooks for new employees that contain procedures to follow in certain situations. 
 
   + MANUALS 
-  Mechanics often refer to car repair manuals when ser vicing models they are not familiar with. These manuals contain a series of tests to check the key functions of the car are working, along with details of how to fix any issues that arise. 
+  Mechanics often refer to car repair manuals when servicing models they are not familiar with. These manuals contain a series of tests to check the key functions of the car are working, along with details of how to fix any issues that arise. 
 
 ### notes:
 + _**Scripts are made up of instructions a computer can follow step-by-step.**_
@@ -96,9 +95,11 @@ Every step for every task shown in a flowchart needs to be written in a language
 
  _You need to get to grips wit h the_: 
  + **Vocabulary**: The words that computers understand 
- + **Syntax**: How you put those words t ogether to create instructions computers can follow
+ + **Syntax**: How you put those words together to create instructions computers can follow
 
  ## OBJECTS & PROPERTIES:
+
+ 
  ### OBJECTS (THINGS)
   In computer programming, each physical thing in the world can be represented as an object.
 
