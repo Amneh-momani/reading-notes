@@ -30,9 +30,9 @@ for more information about how to use Markdown visit the link [Markdown on GitHu
 
  | assigment | link |
  |-----------|--------|
- | READ-1 | [read1](201/class-01.md)| 
- | READ-2 | [read2](201/class-02.md)|
- | READ-3 | [read-3](201/class-03.md)|
+ | READ-1 | [class-01](201/class-01.md)| 
+ | READ-2 | [class-02](201/class-02.md)|
+ | READ-3 | [class-03](201/class-03.md)|
  | READ-4 | [read-4](read-4.md)|
  | READ-5 | [read-5](read-5.md)|
  | READ-6 | [read-6](read-6.md)|
