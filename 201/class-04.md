@@ -162,11 +162,11 @@ Because screen sizes and display resolutions vary so much, web designers often t
 Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
 
 ### advantages:
-+ Pixel values are accurate ●at controlling size and positioning of elements. 
-+ The designer has far greater ●control over the appearance and position of items on the page than with liquid layouts.
++ Pixel values are accurate at controlling size and positioning of elements. 
++ The designer has far greater control over the appearance and position of items on the page than with liquid layouts.
 
-+ You can control the lengths ●of lines of text regardless of the size of the user's window. 
-+ The size of an image will ●always remain the same relative to the rest of the page.
++ You can control the lengths of lines of text regardless of the size of the user's window. 
++ The size of an image will always remain the same relative to the rest of the page.
 
 
 ### disadvantages:
