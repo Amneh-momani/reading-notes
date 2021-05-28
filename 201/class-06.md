@@ -85,7 +85,7 @@ DOM queries may return one element, or they may return a Nodelist, which is a co
 
 If a method can return more than one node, it will always return a Nodelist , which is a collection of nodes (even if it only finds one matching element). You then need to select the element you want from this list using an index number (which means the numbering star ts at 0 like the items in an array). 
 
-### FASTEST ROUTE
+### FASTEST ROUTE 
 Finding the quickest way to access an element within your web page w ill make the page seem faster and/or more responsive. This usually means evaluating the minimum number of nodes on the way to the element you want to work with. 
 
 **METHODS THAT RETURN A SIN GLE ELEMENT NODE:**
