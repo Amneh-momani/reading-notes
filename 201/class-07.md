@@ -202,5 +202,5 @@ Whenever you have a value that is a number, you can use the methods and properti
 
  _originalNumber.toFixed(3) will round the number stored in the variable original Number t o three decimal places._
 
- **JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts.**  
+ **JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts.** 
  
