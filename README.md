@@ -37,7 +37,7 @@ for more information about how to use Markdown visit the link [Markdown on GitHu
  | READ-5 | [class-05](201/class-05.md)|
  | READ-6 | [class-06](201/class-06.md)|
  | READ-7 | [class-07](201/class-07.md)|
- | READ-8 | [read-8](read-8.md)|
+ | READ-8 | [class-08](201/class-08.md)|
  | READ-9 | [read-9](read-9.md)|
  | READ-10 | [read-10](read-10.md)|
  | READ-11 | [read-11](read-11.md)|
