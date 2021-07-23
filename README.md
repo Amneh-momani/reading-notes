@@ -64,8 +64,7 @@ for more information about how to use Markdown visit the link [Markdown on GitHu
  | READ-11 | [class-11](301/class-11.md)|
  | READ-12 | [class-12](301/class-12.md)|
  | READ-13 | [class-13](301/class-13.md)|
- | READ-14 | [class-14A](301/class-14A.md)|
- | READ-14 | [class-14B](301/class-14B.md)|
- | READ-15 | [read-15](301/class-15.md)|
+ | READ-14 | [class-14](301/class-14.md)|
+ | READ-15 | [class-15](301/class-15.md)|
  
  # Code 401 - Advanced Software Development:
